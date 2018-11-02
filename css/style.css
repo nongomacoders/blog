@@ -1,11 +1,15 @@
 
-
+.orange{color:white;background-color: #BF360C}
+.purple{color:white;background-color: #6200EA}
+.brown{color:white;background-color: #3E2723}
 #zlc{
   color: darkorange;
  
     background-color: black;
     font-weight: bold;
-  padding-left: 0px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  
   
 }
 
