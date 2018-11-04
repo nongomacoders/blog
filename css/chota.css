@@ -553,10 +553,10 @@ button[disabled]:hover {
     text-decoration: none;
 }
 .tabs > a {
-    padding: 1rem 2rem;
+    padding: 1rem 0.8rem;
     -webkit-box-flex: 0;
         -ms-flex: 0 1 auto;
-            flex: 0 1 auto;
+            flex: 1 1 auto;
     color: var(--color-darkGrey);
     border-bottom: 2px solid var(--color-lightGrey);
     text-align: center;
